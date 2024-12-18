@@ -1,6 +1,6 @@
 # Optimal_bomber_trajectory
 
-This repository contains the materials and code for my university term paper. Below is an overview of the included files and instructions for using the code.
+As part of university coursework, co-authored a paper that analytically proved the uniqueness of the optimal trajectory from a class of possible trajectories, and numerically determined its parameters in MATLAB. This repository contains the materials and code for the paper. Below is an overview of the included files and instructions for using the code.
 
 ## File Structure
 
